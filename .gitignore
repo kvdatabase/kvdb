@@ -1,0 +1,5 @@
+.idea/
+kvdb.iml
+test/
+cmd/proto/*.pb.go
+main
